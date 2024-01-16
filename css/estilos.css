@@ -39,4 +39,10 @@ body{
     background: white;
     padding:1em
 }
+#footer{
+    background: rgb(99, 197, 99);
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
 
